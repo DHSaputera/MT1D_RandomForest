@@ -1,4 +1,6 @@
 # MT1D_RandomForest
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DHSaputera/MT1D_RandomForest]
 1D Magnetotelluric inversion using Random Forest.
 
 In geophysical exploration, earth's subsurface can be imaged by measuring electromagnetic fields in the surface.
