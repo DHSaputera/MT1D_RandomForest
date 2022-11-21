@@ -16,7 +16,7 @@ I provide the jupyter notebook for generating data and build random forest model
 
 1. MT1D_RandomData : generating random 1D MT data with log-uniform distributed parameters. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DHSaputera/MT1D_RandomForest/blob/main/MT1D_RandomData.ipynb)
 
-2. mt1d_inversion_randomforest: building random forest model for inversion. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DHSaputera/MT1D_RandomForest/blob/main/mt1d_inversion_randomforest.ipynb)
+2. mt1d_inversion_randomforest: building random forest model for inversion. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DHSaputera/MT1D_RandomForest/blob/main/MT1D_inversion_randomforest.ipynb)
 
 For machine learning model in more complex case, there should be many work that can be searched in google scholar.
 
