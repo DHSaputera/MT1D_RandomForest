@@ -20,4 +20,4 @@ I provide the jupyter notebook for generating data and build random forest model
 
 For machine learning model in more complex case, there should be many work that can be searched in google scholar.
 
-The code for calculating 1D MT response can be found in https://www.digitalearthlab.com/tutorial/tutorial-1d-mt-forward/
+Explanation about the code for calculating 1D MT response can be found in https://www.digitalearthlab.com/tutorial/tutorial-1d-mt-forward/
